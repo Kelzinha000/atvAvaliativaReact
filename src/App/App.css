@@ -1,12 +1,12 @@
 *{
     margin: 0;
     padding: 0;
-    
     justify-content: end;
     align-items: flex-end;
 }
 
 body{
+    background-image: url(../../public/images/bg-intro-desktop.png);
     background-color:  hsl(0, 100%, 74%) ;
 }
 

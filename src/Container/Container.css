@@ -20,5 +20,6 @@ section{
     width: 400px;
 }
 .input{
-    border:  solid 1px chocolate;
+    border: hsl(0, 100%, 74%) ;
+    border-radius: 2px;
 }
